@@ -15,32 +15,42 @@ body div{ height: 60rem;
  
 section div{
             background-color: blue;
-            margin-top: 30px;
+            margin-top: 15px;
             position: relative;
             border: sold;
-            border-radius: 2%;
-            width: 50rem;
-            height: 50rem;
-            text-align: center;
+            border-radius: 10%;
+            width: 15rem;
+            height: 15rem;
+    
 }
 
-.center{ margin:0 auto;
+.face{ margin:0 auto;
         display: block;
         text-align: center;
         }
 
-
+.faceone{ margin:0 auto;
+          display: block;
+          text-align: center;}
 
 .dot{ display: inline-block;
       background-color: white;
-      height: 10rem;
-      width: 10rem;
-      border-radius: 10rem;
-      top: 15px;
+      height: 5rem;
+      width: 5rem;
+      border-radius: 5rem;
     }
 
 
 .top-left{ display: inline-block;
-           float: right; 
-                  }
+           background-color: white;
+           height: 5rem;
+           width: 5rem;
+           border-radius: 10rem;
+           float: left;
+          }
 
+.bottom-left{background-color: white;
+             height: 5rem;
+             width: 5rem;
+             float: left;
+                }
