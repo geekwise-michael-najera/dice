@@ -22,11 +22,18 @@ section div{
             position: relative;
             border: sold;
             border-radius: 20%;
-            
-        
-    
 }
 
+.center{ margin:0 auto;
+        display: block;
+        text-align: center;}
+
+.dot{ display: block;
+      background-color: white;
+      height: 20rem;
+      width: 20rem;
+      border-radius: 10rem;
+      top: 500%;}
 head{ 
     
 }
