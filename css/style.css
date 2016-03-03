@@ -4,50 +4,43 @@ html, body{ margin: 0;
             font-size: 62.5%;
 }
 
-
 body{ padding: 0;
       margin: 0;
       height: 100%;
-      width: 100%;
       background-color: red;
     }
-body div{ height: 60rem;
-          width: 100%;
-            
+
+body div{ height: 60rem;    
 }
  
 section div{
             background-color: blue;
-            margin-top: 10rem;
+            margin-top: 30px;
             position: relative;
             border: sold;
-            border-radius: 20%;
+            border-radius: 2%;
+            width: 50rem;
+            height: 50rem;
+            text-align: center;
 }
 
 .center{ margin:0 auto;
         display: block;
-        text-align: center;}
+        text-align: center;
+        }
 
-.dot{ display: block;
+
+
+.dot{ display: inline-block;
       background-color: white;
-      height: 20rem;
-      width: 20rem;
+      height: 10rem;
+      width: 10rem;
       border-radius: 10rem;
-      top: 500%;}
-head{ 
-    
-}
+      top: 15px;
+    }
 
-header{
-     
-} 
 
-Main{ padding: 0;
-      margin: 0; 
-      width: 90%;
-      height: 90%;
-      background-color: white;
-      text-align: center;
-    
-          
-      }
+.top-left{ display: inline-block;
+           float: right; 
+                  }
+
