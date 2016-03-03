@@ -33,6 +33,15 @@ section div{
           display: block;
           text-align: center;}
 
+.facetwo{ margin:0 auto;
+          display: block;
+          text-align: center;}
+
+.facethree{ margin:0 auto;
+            display: block;
+            text-align: center; 
+    
+}
 .dot{ display: inline-block;
       background-color: white;
       height: 5rem;
@@ -53,4 +62,5 @@ section div{
              height: 5rem;
              width: 5rem;
              float: left;
-                }
+             border-radius: 15rem;
+             top: 75%;}
