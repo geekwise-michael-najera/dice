@@ -25,8 +25,8 @@ section div{
 }
 
 .face{ margin:0 auto;
-        display: block;
-        text-align: center;
+       display: block;
+       text-align: center;
         }
 
 .faceone{ margin:0 auto;
@@ -43,7 +43,7 @@ section div{
     
 }
 .dot{ display: inline-block;
-      background-color: white;
+      background-color: yellow;
       height: 5rem;
       width: 5rem;
       border-radius: 5rem;
